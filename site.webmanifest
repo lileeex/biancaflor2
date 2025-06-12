@@ -1,0 +1,9 @@
+{
+    "name": "Biancaflor",
+    "short_name": "Biancaflor",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "App de gestión Biancaflor",
+    "icons": []
+}
